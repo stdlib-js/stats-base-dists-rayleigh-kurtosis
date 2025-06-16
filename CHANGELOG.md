@@ -2,6 +2,63 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2025-06-16)
+
+<section class="features">
+
+### Features
+
+-   [`927131e`](https://github.com/stdlib-js/stdlib/commit/927131e46570839ed908c96af4da0e5d230300c5) - add C implementation for `@stdlib/stats-base/dists/rayleigh/kurtosis` [(#4301)](https://github.com/stdlib-js/stdlib/pull/4301)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3800](https://github.com/stdlib-js/stdlib/issues/3800)
+
+</section>
+
+<!-- /.issues -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`927131e`](https://github.com/stdlib-js/stdlib/commit/927131e46570839ed908c96af4da0e5d230300c5) - **feat:** add C implementation for `@stdlib/stats-base/dists/rayleigh/kurtosis` [(#4301)](https://github.com/stdlib-js/stdlib/pull/4301) _(by Dhruv Arvind Singh, Philipp Burckhardt, stdlib-bot)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Dhruv Arvind Singh
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-27)
