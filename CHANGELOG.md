@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-28)
+## Unreleased (2026-01-01)
 
 <section class="features">
 
@@ -34,6 +34,9 @@ This release closes the following issue:
 
 <details>
 
+-   [`88af63a`](https://github.com/stdlib-js/stdlib/commit/88af63aa54165f09b84ef528cadc3dae622ab05a) - **docs:** replace manual `for` loop in examples [(#9444)](https://github.com/stdlib-js/stdlib/pull/9444) _(by Harsh Yadav)_
+-   [`fc438e0`](https://github.com/stdlib-js/stdlib/commit/fc438e0edbad0689d6923d6f3edb959b96597662) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
+-   [`9c21fd2`](https://github.com/stdlib-js/stdlib/commit/9c21fd20ef8b8a6a88abb96d80ea6d8e4c5434eb) - **test:** use .strictEqual() instead of .equal() _(by Philipp Burckhardt)_
 -   [`a4ce77e`](https://github.com/stdlib-js/stdlib/commit/a4ce77efe910c9398e75b767fb81e786a3a04cc0) - **test:** pass in opts to skip if addon is not available _(by Philipp Burckhardt)_
 -   [`48dd346`](https://github.com/stdlib-js/stdlib/commit/48dd346fb6e276f9132a3c91451a94469fcad5bb) - **docs:** update related packages sections [(#7420)](https://github.com/stdlib-js/stdlib/pull/7420) _(by stdlib-bot)_
 -   [`927131e`](https://github.com/stdlib-js/stdlib/commit/927131e46570839ed908c96af4da0e5d230300c5) - **feat:** add C implementation for `@stdlib/stats-base/dists/rayleigh/kurtosis` [(#4301)](https://github.com/stdlib-js/stdlib/pull/4301) _(by Dhruv Arvind Singh, Philipp Burckhardt, stdlib-bot)_
@@ -48,9 +51,10 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Dhruv Arvind Singh
+-   Harsh Yadav
 -   Philipp Burckhardt
 
 </section>
